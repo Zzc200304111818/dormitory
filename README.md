@@ -5,4 +5,4 @@
 + Mysql8
 + Tomcat9.0
 # 运行方法
-修改类路径下的db.properties文件,改成自己数据库的配置
+修改类路径下的db.properties文件,改成自己数据库的配置，resource路径下有数据库表结构
